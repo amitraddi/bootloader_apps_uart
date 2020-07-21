@@ -20,7 +20,7 @@ lang: en-US
 timezone: America/Phoenix
 
 description: Harmony 3 UART Bootloader Applications package
-url: "https://microchip-mplab-harmony.github.io"
+url: "https://amitraddi.github.io"
 baseurl: "/bootloader_apps_uart"
 remote_theme: "Microchip-MPLAB-Harmony/just-the-docs@mchp-harmony"
 
